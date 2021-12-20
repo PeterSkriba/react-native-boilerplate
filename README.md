@@ -1,2 +1,3 @@
-# react-native-boilerplate
+# React Native Boilerplate
+
 Expo React-Native boilerplate.
